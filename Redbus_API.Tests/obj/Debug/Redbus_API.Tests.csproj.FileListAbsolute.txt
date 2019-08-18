@@ -1,0 +1,1 @@
+D:\Projects\RedBus\Redbus\Redbus_API.Tests\obj\Debug\Redbus_API.Tests.csprojResolveAssemblyReference.cache

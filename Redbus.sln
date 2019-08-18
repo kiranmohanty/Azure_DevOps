@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redbus", "Redbus\Redbus.csproj", "{AF6AE443-6A8D-4F41-8999-33F7925FE141}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{47E059AC-4D16-4733-8AEC-11BD7C5898F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redbus_API", "Redbus_API\Redbus_API.csproj", "{AB2FB3DA-994B-41AC-80EA-8C87FC49D4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redbus_API.Tests", "Redbus_API.Tests\Redbus_API.Tests.csproj", "{8C5FE223-3DFF-4957-B561-F446FB4C598A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6AE443-6A8D-4F41-8999-33F7925FE141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6AE443-6A8D-4F41-8999-33F7925FE141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6AE443-6A8D-4F41-8999-33F7925FE141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6AE443-6A8D-4F41-8999-33F7925FE141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2FB3DA-994B-41AC-80EA-8C87FC49D4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2FB3DA-994B-41AC-80EA-8C87FC49D4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2FB3DA-994B-41AC-80EA-8C87FC49D4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2FB3DA-994B-41AC-80EA-8C87FC49D4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5FE223-3DFF-4957-B561-F446FB4C598A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5FE223-3DFF-4957-B561-F446FB4C598A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5FE223-3DFF-4957-B561-F446FB4C598A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5FE223-3DFF-4957-B561-F446FB4C598A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
